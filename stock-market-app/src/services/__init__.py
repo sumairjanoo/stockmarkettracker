@@ -1,0 +1,2 @@
+# filepath: /stock-market-app/stock-market-app/src/services/__init__.py
+# This file will contain business logic for processing stock data, calculating ratios, and aggregating changes over time. It may also handle data formatting for display.
